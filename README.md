@@ -1,2 +1,1 @@
-# sgo
-Sistema de Gerenciamento de Orientação
+# Sistema de Gerenciamento de Orientação
